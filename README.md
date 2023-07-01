@@ -13,3 +13,19 @@ I came across the dataset in an online learning class section and was amazed at 
 
 ### PowerBi Concepts Applied
 Data Modelling: Star Schema
+
+## PROBLEM STATEMENT
+- What is the total sales made in the year?
+- Which city made most sales and which city made less sales?
+- Total annual sales per selling area.
+- Demostrate a critical awareness of the impact of data.
+- Any other relevant data-driven insights into our sales.
+
+## DATA SOURCING.
+The data was gotten from an online learning platform (Utiva). I then downloaded the csv files and extracted it into **PowerBi** for **cleaning, analysis and visualization.**
+It contains 3 sheets/Tables.
+- Competivetive Territory with 11 rows and 2 columns.
+- Names with 104 rows and 3 columns.
+- Shop territory with 104 rows and 3 columns.
+
+## DATA TRANSFORMATION / CLEANING.
