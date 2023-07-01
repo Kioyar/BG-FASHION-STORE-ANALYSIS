@@ -18,7 +18,7 @@ Data Modelling: Star Schema
 ### DATA SOURCING.
 The data was gotten from an online learning platform (Utiva). I then downloaded the csv files and extracted it into **PowerBi** for **cleaning, analysis and visualization.**
 It contains 3 sheets/Tables.
-- Competitiveness Territory with 11 rows and 2 columns.
+- Competitive Territory with 11 rows and 2 columns.
 - Names with 104 rows and 3 columns.
 - Shop territory with 104 rows and 3 columns.
 
