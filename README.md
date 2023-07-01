@@ -3,7 +3,7 @@ This is an analysis to better drive the decision making for BG fashion store.
 ![Store](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/63d39cf3-26a1-40fb-9598-369c7943a913)
 
 ### INTRODUCTION
-I came across this dataset in an online learning class section and was amazed at how rich the data is as i have been looking forward to getting my hands dirty with a very rich dataset to practice my skills of data cleaning, analysis, modelling, and visualization.
+I came across this dataset in an online learning class section and was amazed at how rich the data is. I have been eagerly looking forward to getting my hands dirty with a very comprehensive dataset to practice my skills in data cleaning, analysis, modeling, and visualization.
 
 #### PowerBi Concepts Applied
 Data Modelling: Star Schema
