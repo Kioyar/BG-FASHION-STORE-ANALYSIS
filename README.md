@@ -27,8 +27,7 @@ The data was efficiently cleaned and transformed with the power query editor of 
 
 ### Data Modelling
 
-Powerbi automatically connected related tables resulting in a star schema model. 'The competitive territory' and 'Shop territory' tables are connected to the 'Name' table via the common column 'Territory and ShopID' respectively.
-The name table is the fact table of the model while the remaining two are the dimension tables.
+Power BI automatically established connections between the related tables, resulting in a star schema model. The "Competitive Territory" and "Shop Territory" tables are linked to the "Name" table through the shared columns "Territory" and "ShopID," respectively. In this model, the "Name" table serves as the fact table, while the remaining two tables act as dimension tables.
 ![Data_model](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/6494cb16-e4fb-44b3-ad68-406419f80e9e)
 
 ### DATA ANALYSIS AND VISUALS: ![Data_visual](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/6f8c8caf-e87d-4f7e-bb1f-5b6ae2550a23)
@@ -38,7 +37,7 @@ From the dashboard, it is observed that.
 3. Sales is highest in the city of **LAUREL** with **$2.4M** while **CHAMBERSBURG** made the least number of sales with **$0.23M.**
 
 While the focus of the analysis was carried out the dashboard below gives room for furthur questions and answers to obtained.![Question](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/58fb110b-060f-4f43-8278-f16b83e4805b)
-## CONCLUSION & RECOMMENDATION
+## CONCLUSION
 - The total annual sales of **$112.56M** was made.
 - A whooping amount of **$2.4M** was made in **LAUREL**, making it the city the highest sales.
 - By chains, **Fashion Direct** made more sales with **$48.02M** which is more than 60% sales of the total sales by chain.
