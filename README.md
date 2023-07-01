@@ -45,6 +45,6 @@ While the focus of the analysis was carried out the dashboard below gives room f
 - **OH** is the territory with the highest sales of **$16.5M**
 
 ## RECOMMENDATION
-1. More attention should be **LAUREL**, the city with the highest number with $2.4M on sales. With this, there shouldn't be a bridg in customer service, service level agreement (SLA) for a better customer satisfaction.
+1. More attention should be on **LAUREL**, the city with the highest number with $2.4M on sales. With this, as much as possible, there shouldn't be a bridge in customer service, service level agreement (SLA) for a better customer satisfaction.
 2. More awareness. adequate follow up on customers and an excellent customer service should be adopted in **Chambersburg**, the city with the lowest sales of $0.23M.
 ![Thank you](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/fbe8bed9-0d56-4768-8b9c-ad48ef6f8517)
