@@ -4,6 +4,9 @@
 ![Data_model](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/6494cb16-e4fb-44b3-ad68-406419f80e9e)
 
 
-# BG-FASHION-STORE-ANALYSIS
-An analysis to better drive the decision making in BG fashion store.
+# BG-FASHION-STORE-:-SALES-ANALYSIS
+An analysis to better drive the decision making for BG fashion store.
 ![Store](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/63d39cf3-26a1-40fb-9598-369c7943a913)
+
+# INTRODUCTION
+---
