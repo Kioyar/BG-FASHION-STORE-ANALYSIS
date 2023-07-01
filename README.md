@@ -36,7 +36,7 @@ From the dashboard, it is observed that.
 2. Total annual sales is **$112.56M.**
 3. Sales is highest in the city of **LAUREL** with **$2.4M** while **CHAMBERSBURG** made the least number of sales with **$0.23M.**
 
-While the focus of the analysis was carried out the dashboard below gives room for furthur questions and answers to obtained.![Question](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/58fb110b-060f-4f43-8278-f16b83e4805b)
+While the analysis was focused, the dashboard below allows for further exploration and obtaining additional questions and answers.![Question](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/58fb110b-060f-4f43-8278-f16b83e4805b)
 ## CONCLUSION
 - The total annual sales of **$112.56M** was made.
 - A whooping amount of **$2.4M** was made in **LAUREL**, making it the city the highest sales.
