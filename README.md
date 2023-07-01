@@ -16,7 +16,7 @@ Data Modelling: Star Schema
 - Any other relevant data-driven insights into our sales.
 
 ### DATA SOURCING.
-The data was gotten from an online learning platform (Utiva). I then downloaded the csv files and extracted it into **PowerBi** for **cleaning, analysis and visualization.**
+The data was obtained from an online learning platform (Utiva). I downloaded the CSV files and imported them into Power BI for cleaning, analysis, and visualization.
 It contains 3 sheets/Tables.
 - Competitive Territory with 11 rows and 2 columns.
 - Names with 104 rows and 3 columns.
