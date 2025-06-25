@@ -43,7 +43,7 @@ While the analysis was focused, the dashboard below allows for further explorati
 3. Among the chains, **Fashion Direct** achieved the highest sales of **$48.02 million**, representing over 60% of the total sales by chain.
 4. The territory of **OH** recorded the highest sales of **$16.5 million.**
 ## RECOMMENDATION
-1. It is recommended to prioritize attention and ensure seamless customer service in **LAUREL**, the city with the highest sales of **$2.4 million**. Efforts should be made to prevent any gaps in customer service and maintain a high level of service agreement (SLA) to enhance customer satisfaction.
+1. It is recommended to prioritize attention and ensure seamless customer service in **LAUREL**, the city with the highest sales of **$2.4 million**. Efforts should be made to prevent any gaps in customer service and maintain a high level of service level agreement (SLA) to enhance customer satisfaction.
 2. Increased awareness, proactive customer follow-up, and excellent customer service should be implemented in **Chambersburg,** the city with the lowest sales of **$0.23 million,** in order to boost sales and improve customer satisfaction.
 
 ![Thank you](https://github.com/Kioyar/BG-FASHION-STORE-ANALYSIS/assets/106233340/fbe8bed9-0d56-4768-8b9c-ad48ef6f8517)
